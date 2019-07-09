@@ -1,0 +1,14 @@
+{
+  "name": "formado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teerasej Jiraphatchandej",
+  "license": "ISC",
+  "dependencies": {
+    "drivelist": "^8.0.6"
+  }
+}
