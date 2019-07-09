@@ -12,7 +12,7 @@ showDrive = async () => {
     console.log(usbDrives);
     
     if(usbDrives.length > 0){
-        console.log(`Found ${usbDrives.length} drives`);
+        console.log(`Found ${usbDrives.length} USB drives`);
     }
     
 
